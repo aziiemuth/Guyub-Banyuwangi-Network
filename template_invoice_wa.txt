@@ -1,0 +1,22 @@
+
+━━━━━━━━━━━━━━━━━━━━
+GUYUB BANYUWANGI NETWORK
+━━━━━━━━━━━━━━━━━━━━
+
+INVOICE PEMBAYARAN ARISAN
+Status : LUNAS
+
+Nama    : {{NAMA}}
+Alamat  : {{ALAMAT}}
+Tanggal : {{TANGGAL}}
+
+DETAIL PEMBAYARAN
+Jenis Transaksi : {{CASH / TRANSFER}}
+Nominal         : Rp {{NOMINAL}}
+
+RINGKASAN
+Arisan : Rp 500.000
+Kas    : Rp 50.000
+
+Terima kasih atas kepercayaan Anda
+Guyub Banyuwangi Network
